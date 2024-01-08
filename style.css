@@ -57,7 +57,7 @@ body{
     margin: 1rem 0;
 }
 
-h2{
+h1{
     margin: 1rem 0;
 }
 
@@ -82,7 +82,7 @@ h2{
 
 @media(min-width:375px){
 
-    h2:hover{
+    h1:hover{
         color: var(--primary-color);
         cursor: pointer;
     }
